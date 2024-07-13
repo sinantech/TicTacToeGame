@@ -44,7 +44,8 @@ This project is a simple Tic Tac Toe game developed using Java. Tic Tac Toe is a
 - The first player to align three marks horizontally, vertically, or diagonally wins.
 - If all cells are filled and there is no winner, the game ends in a draw.
 
-## Sample Screenshots
+## Auhtor
+Sinan Can Ozer
 
 
 ## Contributing
